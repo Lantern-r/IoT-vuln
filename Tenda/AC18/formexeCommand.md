@@ -1,7 +1,7 @@
 ## Overview
 
 - The device's official website: https://www.tenda.com.cn/product/overview/AC18.html
-- Firmware download website: https://www.tenda.com.cn/download/detail-2610.html
+- Firmware download website: https://www.tendacn.com/iq/download/detail-3853.html
 
 ## Affected version
 
